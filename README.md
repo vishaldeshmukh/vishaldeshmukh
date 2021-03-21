@@ -1,5 +1,6 @@
 Hi, I’m Vishwanath Deshmukh.
+
 I've been working as an iOS application developer since 2010. I also worked on native Android apps along with hybrid applications. I developed apps using CoreData, PushNotifications, UIKit and other apple's frameworks.
-I designed apps using MVVM and VIPER architectures and I extensively do Protocol oriented programming.
+I designed apps using **MVVM** and **VIPER** architectures and I extensively do **Protocol oriented programming**.
 
 You can reach me at LinkedIn: https://www.linkedin.com/in/vishwanath-deshmukh/
