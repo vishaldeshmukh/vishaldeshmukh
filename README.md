@@ -1,7 +1,11 @@
-Hi, I’m Vishwanath Deshmukh.
+Hi, I’m Vishwanath Deshmukh - an Apple platform engineering leader.
 
-I've been working as an iOS application developer since 2010. I also worked on native Android apps along with hybrid applications. I've developed apps using CoreData, PushNotifications, UIKit and other apple's frameworks. I have great experience in increasing apps perfomrance.
+I have 15+ years of experience architecting and scaling high-quality consumer platforms across iOS, iPadOS, tvOS, visionOS, and macOS. My work focuses on building the systems behind great Apple experiences: modular Swift frameworks, SwiftUI + UIKit hybrid architectures, performance-critical concurrency pipelines, and developer-experience tooling that enables teams to ship reliable products at scale.
 
-I design apps using **MVVM** and **VIPER** architectures and extensively do **Protocol oriented programming**.
+I’ve built the Vish Engineering Platform - a public monorepo that demonstrates how Apple-first platform teams can operate with strong architectural discipline at scale.
 
-You can reach me at LinkedIn: https://www.linkedin.com/in/vishwanath-deshmukh/
+My engineering narrative lives here:  
+https://vishdeshmukh.dev
+
+Connect on LinkedIn:  
+https://www.linkedin.com/in/vishwanath-deshmukh/
